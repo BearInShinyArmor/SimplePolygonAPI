@@ -1,0 +1,17 @@
+C:\Projects\SimplePolygonAPI\SimplePolygonAPI\bin\Debug\netcoreapp3.1\SimplePolygonAPI.exe
+C:\Projects\SimplePolygonAPI\SimplePolygonAPI\bin\Debug\netcoreapp3.1\SimplePolygonAPI.deps.json
+C:\Projects\SimplePolygonAPI\SimplePolygonAPI\bin\Debug\netcoreapp3.1\SimplePolygonAPI.runtimeconfig.json
+C:\Projects\SimplePolygonAPI\SimplePolygonAPI\bin\Debug\netcoreapp3.1\SimplePolygonAPI.runtimeconfig.dev.json
+C:\Projects\SimplePolygonAPI\SimplePolygonAPI\bin\Debug\netcoreapp3.1\SimplePolygonAPI.dll
+C:\Projects\SimplePolygonAPI\SimplePolygonAPI\bin\Debug\netcoreapp3.1\SimplePolygonAPI.pdb
+C:\Projects\SimplePolygonAPI\SimplePolygonAPI\obj\Debug\netcoreapp3.1\SimplePolygonAPI.csprojAssemblyReference.cache
+C:\Projects\SimplePolygonAPI\SimplePolygonAPI\obj\Debug\netcoreapp3.1\SimplePolygonAPI.AssemblyInfoInputs.cache
+C:\Projects\SimplePolygonAPI\SimplePolygonAPI\obj\Debug\netcoreapp3.1\SimplePolygonAPI.AssemblyInfo.cs
+C:\Projects\SimplePolygonAPI\SimplePolygonAPI\obj\Debug\netcoreapp3.1\SimplePolygonAPI.csproj.CoreCompileInputs.cache
+C:\Projects\SimplePolygonAPI\SimplePolygonAPI\obj\Debug\netcoreapp3.1\SimplePolygonAPI.dll
+C:\Projects\SimplePolygonAPI\SimplePolygonAPI\obj\Debug\netcoreapp3.1\SimplePolygonAPI.pdb
+C:\Projects\SimplePolygonAPI\SimplePolygonAPI\obj\Debug\netcoreapp3.1\SimplePolygonAPI.genruntimeconfig.cache
+C:\Projects\SimplePolygonAPI\SimplePolygonAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Projects\SimplePolygonAPI\SimplePolygonAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\SimplePolygonAPI\SimplePolygonAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Projects\SimplePolygonAPI\SimplePolygonAPI\obj\Debug\netcoreapp3.1\SimplePolygonAPI.csproj.CopyComplete

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SimplePolygonAPI": {
+      "commandName": "Project",
+      "commandLineArgs": "report1.txt 4"
+    }
+  }
+}
